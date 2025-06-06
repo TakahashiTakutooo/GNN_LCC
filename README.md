@@ -1,1 +1,1 @@
-# GNN-LCC
+# GNN_LCC
