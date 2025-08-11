@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+numpy
+scipy
+pandas
+pyyaml
+gdown
+networkx
+scikit-learn
+ogb
